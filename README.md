@@ -4,7 +4,7 @@
 
 ## Descrição
 
-Nesse semestre teremos um novo desafio na construção do Projeto, onde vocês irão construir um **Sistema WEB** publicado em um provedor de Cloud, por exemplo na **AWS**, **AZURE**, **Google Cloud**, **ou outro provedor de Cloud** e versionando no **Github**.
+Nesse semestre teremos um novo desafio na construção do Projeto, onde vocês irão construir um **Sistema WEB** publicado em um provedor de Cloud, por exemplo na **AWS**, **AZURE**, **Google Cloud**, **outro provedor de Cloud** ou hospedagem tradicional e versionando no **Github**.
 
 O seu grupo deve criar um sistema WEB, que pode ser uma página institucional, um blog, uma API, um sistema online com cadastro de produtos e clientes, um jogo online, ou qualquer Sistema WEB e versionado no Github.
 
@@ -31,7 +31,7 @@ Sem o correto preenchimento do formulário o trabalho não será corrigido.
 * **05/06/2023** 
 	+ Versionamento do projeto no Github. 
 	+ Publicação do projeto na Cloud.
-	+ Preenchimento do formulário formalizando a entrega do projeto. Link: <aguardar link>
+	+ Preenchimento do formulário formalizando a entrega do projeto. Link: aguardar link (será informado no final de maio)
 	+ Atenção: Informar todos os alunos no formulário, conforme exemplo indicado no link.
 
     
