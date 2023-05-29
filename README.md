@@ -1,5 +1,5 @@
-## PROJETO PRÁTICO EM SISTEMAS
-* **Dia:** Segunda-Feira (Pré-aula)
+## PROJETO PRÁTICO EM SISTEMAS ou PROJETO EM EMPREENDEDORISMO E TRANSFORMAÇÃO DIGITAL
+* **Dia:** Segunda-feira ou Sexta-feira (Pré-aula)
 * **Período:** noite
 
 ## Descrição
@@ -31,7 +31,7 @@ Sem o correto preenchimento do formulário o trabalho não será corrigido.
 * **05/06/2023** 
 	+ Versionamento do projeto no Github. 
 	+ Publicação do projeto na Cloud.
-	+ Preenchimento do formulário formalizando a entrega do projeto. Link: aguardar link (será informado no final de maio)
+	+ Preenchimento do formulário formalizando a entrega do projeto. **Link:** https://forms.gle/yiMo7powCmpsxzrcA
 	+ Atenção: Informar todos os alunos no formulário, conforme exemplo indicado no link.
 
     
