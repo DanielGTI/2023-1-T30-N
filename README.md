@@ -28,7 +28,7 @@ Sem o correto preenchimento do formulário o trabalho não será corrigido.
 
 
 ## Calendário de Entregas
-* **05/06/2023** 
+* **09/06/2023 (Prorrogado)** 
 	+ Versionamento do projeto no Github. 
 	+ Publicação do projeto na Cloud.
 	+ Preenchimento do formulário formalizando a entrega do projeto. **Link:** https://forms.gle/yiMo7powCmpsxzrcA
